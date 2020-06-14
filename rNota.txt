@@ -1,1 +1,0 @@
-Create game of life and immigration game
